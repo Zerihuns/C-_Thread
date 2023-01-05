@@ -1,0 +1,15 @@
+C:\Users\Prime\Documents\multithreaded_exercise\Exe_1\Exe_1\bin\Debug\net7.0\Exe_1.exe
+C:\Users\Prime\Documents\multithreaded_exercise\Exe_1\Exe_1\bin\Debug\net7.0\Exe_1.deps.json
+C:\Users\Prime\Documents\multithreaded_exercise\Exe_1\Exe_1\bin\Debug\net7.0\Exe_1.runtimeconfig.json
+C:\Users\Prime\Documents\multithreaded_exercise\Exe_1\Exe_1\bin\Debug\net7.0\Exe_1.dll
+C:\Users\Prime\Documents\multithreaded_exercise\Exe_1\Exe_1\bin\Debug\net7.0\Exe_1.pdb
+C:\Users\Prime\Documents\multithreaded_exercise\Exe_1\Exe_1\obj\Debug\net7.0\Exe_1.csproj.AssemblyReference.cache
+C:\Users\Prime\Documents\multithreaded_exercise\Exe_1\Exe_1\obj\Debug\net7.0\Exe_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prime\Documents\multithreaded_exercise\Exe_1\Exe_1\obj\Debug\net7.0\Exe_1.AssemblyInfoInputs.cache
+C:\Users\Prime\Documents\multithreaded_exercise\Exe_1\Exe_1\obj\Debug\net7.0\Exe_1.AssemblyInfo.cs
+C:\Users\Prime\Documents\multithreaded_exercise\Exe_1\Exe_1\obj\Debug\net7.0\Exe_1.csproj.CoreCompileInputs.cache
+C:\Users\Prime\Documents\multithreaded_exercise\Exe_1\Exe_1\obj\Debug\net7.0\Exe_1.dll
+C:\Users\Prime\Documents\multithreaded_exercise\Exe_1\Exe_1\obj\Debug\net7.0\refint\Exe_1.dll
+C:\Users\Prime\Documents\multithreaded_exercise\Exe_1\Exe_1\obj\Debug\net7.0\Exe_1.pdb
+C:\Users\Prime\Documents\multithreaded_exercise\Exe_1\Exe_1\obj\Debug\net7.0\Exe_1.genruntimeconfig.cache
+C:\Users\Prime\Documents\multithreaded_exercise\Exe_1\Exe_1\obj\Debug\net7.0\ref\Exe_1.dll
